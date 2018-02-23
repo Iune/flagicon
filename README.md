@@ -28,7 +28,7 @@ For example, if we were to create a flagicon for the file `nm.png` (the state fl
 flagicon nm.png
 ```
 
-This would produce a flagicon and save it to `out.png`. 
+This would produce the flagicon ![New Mexicon flagicon](img/nm.png "New Mexico Flagicon") and save it to `out.png`. 
 
 If we wish to name the output file -- perhaps `nm_icon.png`, we might run:
 
