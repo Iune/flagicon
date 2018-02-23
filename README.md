@@ -21,13 +21,15 @@ Options:
   --help, -h             display this help and exit
 ```
 
-For example, if we were to create a flagicon for the file `nm.png` (the state flag of New Mexico), we might run:
+For example, if we were to create a flagicon for the file `nm.png` (the state flag of New Mexico), we might run the following:
 
 ```
 flagicon nm.png
 ```
 
-This would produce a flagicon and save it to `out.png`. If we wish to name the output file, we might run:
+This would produce a flagicon and save it to `out.png`. 
+
+If we wish to name the output file -- perhaps `nm_icon.png`, we might run:
 
 ```
 flagicon nm.png -o nm_icon.png
