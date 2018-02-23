@@ -10,7 +10,7 @@ of the image) such that it is square before it resizes the image.
 
 # Usage
 ```
-Usage: flagicon [--output OUTPUT] INPUT
+Usage: flagicon [--output OUTPUT] [--left] INPUT
 
 Positional arguments:
   INPUT                  Path to input image file
@@ -18,6 +18,7 @@ Positional arguments:
 Options:
   --output OUTPUT, -o OUTPUT
                          Output file name [default: out.png]
+  --left, -l             Generate flagicon from left-side of image, rather than the center
   --help, -h             display this help and exit
 ```
 
