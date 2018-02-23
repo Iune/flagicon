@@ -23,8 +23,12 @@ Options:
 
 For example, if we were to create a flagicon for the file `nm.png` (the state flag of New Mexico), we might run:
 
-```flagicon nm.png```
+```
+flagicon nm.png
+```
 
 This would produce a flagicon and save it to `out.png`. If we wish to name the output file, we might run:
 
-```flagicon nm.png -o nm_icon.png```
+```
+flagicon nm.png -o nm_icon.png
+```
