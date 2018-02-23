@@ -43,7 +43,7 @@ flagicon nm.png -o nm_icon.png
 
 This would run `flagicon` and create ![New Mexico flagicon](img/nm.png "New Mexico Flagicon"), which would be saved as `nm_icon.png`.
 
-## Controlling
+## Dealing with Rectangular Images 
 
 When dealing with square images, `flagicon` simply creates the circular flagicons from the center of the image. But most flags, with the notable exception of the ![Vatican flagicon](img/vt.png "Vatican Flagicon") Vatican City and ![Switzerland flagicon](img/ch.png "Switzerland Flagicon") Switzerland, are not square. How can we control which parts of the flag to include in the flagicon?
 
